@@ -1,5 +1,5 @@
 # Dynamic-Input-Generator
-Create duplicate input fields with HTML, CSS and JavaScript(No Javascript Framework).
+Create duplicate input fields with HTML, CSS, and JavaScript(No Javascript Framework).
 
 This is a reusable Web Project that generates duplicate input fields on a web page.
 If it is used to POST data in a fullstack application, it will insert multiple rows into the database at once.
